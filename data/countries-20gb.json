@@ -1,0 +1,702 @@
+[
+  {
+    "alpha": "MT",
+    "emoji": "🇲🇹",
+    "country": "Malta",
+    "product_id": "FRANQUIA20GB_MT",
+    "check": false
+  },
+  {
+    "alpha": "MV",
+    "emoji": "🇲🇻",
+    "country": "Maldivas",
+    "product_id": "FRANQUIA20GB_MV",
+    "check": false
+  },
+  {
+    "alpha": "MY",
+    "emoji": "🇲🇾",
+    "country": "Malásia",
+    "product_id": "FRANQUIA20GB_MY",
+    "check": false
+  },
+  {
+    "alpha": "NA",
+    "emoji": "🇳🇦",
+    "country": "Namíbia",
+    "product_id": "FRANQUIA20GB_NA",
+    "check": false
+  },
+  {
+    "alpha": "NI",
+    "emoji": "🇳🇮",
+    "country": "Nicarágua",
+    "product_id": "FRANQUIA20GB_NI",
+    "check": false
+  },
+  {
+    "alpha": "NZ",
+    "emoji": "🇳🇿",
+    "country": "Nova Zelândia",
+    "product_id": "FRANQUIA20GB_NZ",
+    "check": false
+  },
+  {
+    "alpha": "MZ",
+    "emoji": "🇲🇿",
+    "country": "Moçambique",
+    "product_id": "FRANQUIA20GB_MZ",
+    "check": false
+  },
+  {
+    "alpha": "PK",
+    "emoji": "🇵🇰",
+    "country": "Paquistão",
+    "product_id": "FRANQUIA20GB_PK",
+    "check": false
+  },
+  {
+    "alpha": "NO",
+    "emoji": "🇳🇴",
+    "country": "Noruega",
+    "product_id": "FRANQUIA20GB_NO",
+    "check": false
+  },
+  {
+    "alpha": "PH",
+    "emoji": "🇵🇭",
+    "country": "Filipinas",
+    "product_id": "FRANQUIA20GB_PH",
+    "check": false
+  },
+  {
+    "alpha": "PF",
+    "emoji": "🇵🇫",
+    "country": "Polinésia Francesa",
+    "product_id": "FRANQUIA20GB_PF",
+    "check": false
+  },
+  {
+    "alpha": "PS",
+    "emoji": "🇵🇸",
+    "country": "Palestina",
+    "product_id": "FRANQUIA20GB_PS",
+    "check": false
+  },
+  {
+    "alpha": "OM",
+    "emoji": "🇴🇲",
+    "country": "Omã",
+    "product_id": "FRANQUIA20GB_OM",
+    "check": false
+  },
+  {
+    "alpha": "QA",
+    "emoji": "🇶🇦",
+    "country": "Catar",
+    "product_id": "FRANQUIA20GB_QA",
+    "check": false
+  },
+  {
+    "alpha": "RS",
+    "emoji": "🇷🇸",
+    "country": "Sérvia",
+    "product_id": "FRANQUIA20GB_RS",
+    "check": false
+  },
+  {
+    "alpha": "RU",
+    "emoji": "🇷🇺",
+    "country": "Rússia",
+    "product_id": "FRANQUIA20GB_RU",
+    "check": false
+  },
+  {
+    "alpha": "PY",
+    "emoji": "🇵🇾",
+    "country": "Paraguai",
+    "product_id": "FRANQUIA20GB_PY",
+    "check": false
+  },
+  {
+    "alpha": "SD",
+    "emoji": "🇸🇩",
+    "country": "Sudão",
+    "product_id": "FRANQUIA20GB_SD",
+    "check": false
+  },
+  {
+    "alpha": "SE",
+    "emoji": "🇸🇪",
+    "country": "Suécia",
+    "product_id": "FRANQUIA20GB_SE",
+    "check": false
+  },
+  {
+    "alpha": "RW",
+    "emoji": "🇷🇼",
+    "country": "Ruanda",
+    "product_id": "FRANQUIA20GB_RW",
+    "check": false
+  },
+  {
+    "alpha": "PT",
+    "emoji": "🇵🇹",
+    "country": "Portugal",
+    "product_id": "FRANQUIA20GB_PT",
+    "check": false
+  },
+  {
+    "alpha": "SA",
+    "emoji": "🇸🇦",
+    "country": "Arábia Saudita",
+    "product_id": "FRANQUIA20GB_SA",
+    "check": false
+  },
+  {
+    "alpha": "SI",
+    "emoji": "🇸🇮",
+    "country": "Eslovênia",
+    "product_id": "FRANQUIA20GB_SI",
+    "check": false
+  },
+  {
+    "alpha": "SG",
+    "emoji": "🇸🇬",
+    "country": "Singapura",
+    "product_id": "FRANQUIA20GB_SG",
+    "check": false
+  },
+  {
+    "alpha": "SL",
+    "emoji": "🇸🇱",
+    "country": "Serra Leoa",
+    "product_id": "FRANQUIA20GB_SL",
+    "check": false
+  },
+  {
+    "alpha": "SK",
+    "emoji": "🇸🇰",
+    "country": "Eslováquia",
+    "product_id": "FRANQUIA20GB_SK",
+    "check": false
+  },
+  {
+    "alpha": "TD",
+    "emoji": "🇹🇩",
+    "country": "Chade",
+    "product_id": "FRANQUIA20GB_TD",
+    "check": false
+  },
+  {
+    "alpha": "SV",
+    "emoji": "🇸🇻",
+    "country": "El Salvador",
+    "product_id": "FRANQUIA20GB_SV",
+    "check": false
+  },
+  {
+    "alpha": "TH",
+    "emoji": "🇹🇭",
+    "country": "Tailândia",
+    "product_id": "FRANQUIA20GB_TH",
+    "check": false
+  },
+  {
+    "alpha": "TL",
+    "emoji": "🇹🇱",
+    "country": "Timor-Leste",
+    "product_id": "FRANQUIA20GB_TL",
+    "check": false
+  },
+  {
+    "alpha": "SR",
+    "emoji": "🇸🇷",
+    "country": "Suriname",
+    "product_id": "FRANQUIA20GB_SR",
+    "check": false
+  },
+  {
+    "alpha": "TJ",
+    "emoji": "🇹🇯",
+    "country": "Tajiquistão",
+    "product_id": "FRANQUIA20GB_TJ",
+    "check": false
+  },
+  {
+    "alpha": "TW",
+    "emoji": "🇹🇼",
+    "country": "Taiwan",
+    "product_id": "FRANQUIA20GB_TW",
+    "check": false
+  },
+  {
+    "alpha": "TZ",
+    "emoji": "🇹🇿",
+    "country": "Tanzânia",
+    "product_id": "FRANQUIA20GB_TZ",
+    "check": false
+  },
+  {
+    "alpha": "UG",
+    "emoji": "🇺🇬",
+    "country": "Uganda",
+    "product_id": "FRANQUIA20GB_UG",
+    "check": false
+  },
+  {
+    "alpha": "TG",
+    "emoji": "🇹🇬",
+    "country": "Togo",
+    "product_id": "FRANQUIA20GB_TG",
+    "check": false
+  },
+  {
+    "alpha": "TN",
+    "emoji": "🇹🇳",
+    "country": "Tunísia",
+    "product_id": "FRANQUIA20GB_TN",
+    "check": false
+  },
+  {
+    "alpha": "UY",
+    "emoji": "🇺🇾",
+    "country": "Uruguai",
+    "product_id": "FRANQUIA20GB_UY",
+    "check": false
+  },
+  {
+    "alpha": "US",
+    "emoji": "🇺🇸",
+    "country": "Estados Unidos",
+    "product_id": "FRANQUIA20GB_US",
+    "check": false
+  },
+  {
+    "alpha": "UZ",
+    "emoji": "🇺🇿",
+    "country": "Uzbequistão",
+    "product_id": "FRANQUIA20GB_UZ",
+    "check": false
+  },
+  {
+    "alpha": "WS",
+    "emoji": "🇼🇸",
+    "country": "Samoa",
+    "product_id": "FRANQUIA20GB_WS",
+    "check": false
+  },
+  {
+    "alpha": "ZA",
+    "emoji": "🇿🇦",
+    "country": "África do Sul",
+    "product_id": "FRANQUIA20GB_ZA",
+    "check": false
+  },
+  {
+    "alpha": "UA",
+    "emoji": "🇺🇦",
+    "country": "Ucrânia",
+    "product_id": "FRANQUIA20GB_UA",
+    "check": false
+  },
+  {
+    "alpha": "ZM",
+    "emoji": "🇿🇲",
+    "country": "Zâmbia",
+    "product_id": "FRANQUIA20GB_ZM",
+    "check": false
+  },
+  {
+    "alpha": "VE",
+    "emoji": "🇻🇪",
+    "country": "Venezuela",
+    "product_id": "FRANQUIA20GB_VE",
+    "check": false
+  },
+  {
+    "alpha": "VN",
+    "emoji": "🇻🇳",
+    "country": "Vietname",
+    "product_id": "FRANQUIA20GB_VN",
+    "check": false
+  },
+  {
+    "alpha": "AR",
+    "emoji": "🇦🇷",
+    "country": "Argentina",
+    "product_id": "FRANQUIA20GB_AR",
+    "check": false
+  },
+  {
+    "alpha": "AI",
+    "emoji": "🇦🇮",
+    "country": "Anguila",
+    "product_id": "FRANQUIA20GB_AI",
+    "check": false
+  },
+  {
+    "alpha": "AD",
+    "emoji": "🇦🇩",
+    "country": "Andorra",
+    "product_id": "FRANQUIA20GB_AD",
+    "check": false
+  },
+  {
+    "alpha": "BA",
+    "emoji": "🇧🇦",
+    "country": "Bósnia e Herzegovina",
+    "product_id": "FRANQUIA20GB_BA",
+    "check": false
+  },
+  {
+    "alpha": "AW",
+    "emoji": "🇦🇼",
+    "country": "Aruba",
+    "product_id": "FRANQUIA20GB_AW",
+    "check": false
+  },
+  {
+    "alpha": "AL",
+    "emoji": "🇦🇱",
+    "country": "Albânia",
+    "product_id": "FRANQUIA20GB_AL",
+    "check": false
+  },
+  {
+    "alpha": "AF",
+    "emoji": "🇦🇫",
+    "country": "Afeganistão",
+    "product_id": "FRANQUIA20GB_AF",
+    "check": false
+  },
+  {
+    "alpha": "AZ",
+    "emoji": "🇦🇿",
+    "country": "Azerbaijão",
+    "product_id": "FRANQUIA20GB_AZ",
+    "check": false
+  },
+  {
+    "alpha": "AO",
+    "emoji": "🇦🇴",
+    "country": "Angola",
+    "product_id": "FRANQUIA20GB_AO",
+    "check": false
+  },
+  {
+    "alpha": "AG",
+    "emoji": "🇦🇬",
+    "country": "Antígua e Barbuda",
+    "product_id": "FRANQUIA20GB_AG",
+    "check": false
+  },
+  {
+    "alpha": "AE",
+    "emoji": "🇦🇪",
+    "country": "Emirados Árabes Unidos",
+    "product_id": "FRANQUIA20GB_AE",
+    "check": false
+  },
+  {
+    "alpha": "AU",
+    "emoji": "🇦🇺",
+    "country": "Austrália",
+    "product_id": "FRANQUIA20GB_AU",
+    "check": false
+  },
+  {
+    "alpha": "BH",
+    "emoji": "🇧🇭",
+    "country": "Bahrein",
+    "product_id": "FRANQUIA20GB_BH",
+    "check": false
+  },
+  {
+    "alpha": "BO",
+    "emoji": "🇧🇴",
+    "country": "Bolívia",
+    "product_id": "FRANQUIA20GB_BO",
+    "check": false
+  },
+  {
+    "alpha": "BM",
+    "emoji": "🇧🇲",
+    "country": "Bermudas",
+    "product_id": "FRANQUIA20GB_BM",
+    "check": false
+  },
+  {
+    "alpha": "BG",
+    "emoji": "🇧🇬",
+    "country": "Bulgária",
+    "product_id": "FRANQUIA20GB_BG",
+    "check": false
+  },
+  {
+    "alpha": "BS",
+    "emoji": "🇧🇸",
+    "country": "Bahamas",
+    "product_id": "FRANQUIA20GB_BS",
+    "check": false
+  },
+  {
+    "alpha": "BT",
+    "emoji": "🇧🇹",
+    "country": "Butão",
+    "product_id": "FRANQUIA20GB_BT",
+    "check": false
+  },
+  {
+    "alpha": "BY",
+    "emoji": "🇧🇾",
+    "country": "Bielorrússia",
+    "product_id": "FRANQUIA20GB_BY",
+    "check": false
+  },
+  {
+    "alpha": "BE",
+    "emoji": "🇧🇪",
+    "country": "Bélgica",
+    "product_id": "FRANQUIA20GB_BE",
+    "check": false
+  },
+  {
+    "alpha": "BF",
+    "emoji": "🇧🇫",
+    "country": "Burquina Fasso",
+    "product_id": "FRANQUIA20GB_BF",
+    "check": false
+  },
+  {
+    "alpha": "BB",
+    "emoji": "🇧🇧",
+    "country": "Barbados",
+    "product_id": "FRANQUIA20GB_BB",
+    "check": false
+  },
+  {
+    "alpha": "BW",
+    "emoji": "🇧🇼",
+    "country": "Botswana",
+    "product_id": "FRANQUIA20GB_BW",
+    "check": false
+  },
+  {
+    "alpha": "BD",
+    "emoji": "🇧🇩",
+    "country": "Bangladesh",
+    "product_id": "FRANQUIA20GB_BD",
+    "check": false
+  },
+  {
+    "alpha": "BZ",
+    "emoji": "🇧🇿",
+    "country": "Belize",
+    "product_id": "FRANQUIA20GB_BZ",
+    "check": false
+  },
+  {
+    "alpha": "CA",
+    "emoji": "🇨🇦",
+    "country": "Canadá",
+    "product_id": "FRANQUIA20GB_CA",
+    "check": false
+  },
+  {
+    "alpha": "CI",
+    "emoji": "🇨🇮",
+    "country": "Costa do Marfim",
+    "product_id": "FRANQUIA20GB_CI",
+    "check": false
+  },
+  {
+    "alpha": "CL",
+    "emoji": "🇨🇱",
+    "country": "Chile",
+    "product_id": "FRANQUIA20GB_CL",
+    "check": false
+  },
+  {
+    "alpha": "CH",
+    "emoji": "🇨🇭",
+    "country": "Suíça",
+    "product_id": "FRANQUIA20GB_CH",
+    "check": false
+  },
+  {
+    "alpha": "CN",
+    "emoji": "🇨🇳",
+    "country": "China",
+    "product_id": "FRANQUIA20GB_CN",
+    "check": false
+  },
+  {
+    "alpha": "CR",
+    "emoji": "🇨🇷",
+    "country": "Costa Rica",
+    "product_id": "FRANQUIA20GB_CR",
+    "check": false
+  },
+  {
+    "alpha": "CD",
+    "emoji": "🇨🇩",
+    "country": "República Democrática do Congo",
+    "product_id": "FRANQUIA20GB_CD",
+    "check": false
+  },
+  {
+    "alpha": "CV",
+    "emoji": "🇨🇻",
+    "country": "Cabo Verde",
+    "product_id": "FRANQUIA20GB_CV",
+    "check": false
+  },
+  {
+    "alpha": "CM",
+    "emoji": "🇨🇲",
+    "country": "Camarões",
+    "product_id": "FRANQUIA20GB_CM",
+    "check": false
+  },
+  {
+    "alpha": "CY",
+    "emoji": "🇨🇾",
+    "country": "Chipre",
+    "product_id": "FRANQUIA20GB_CY",
+    "check": false
+  },
+  {
+    "alpha": "CU",
+    "emoji": "🇨🇺",
+    "country": "Cuba",
+    "product_id": "FRANQUIA20GB_CU",
+    "check": false
+  },
+  {
+    "alpha": "DE",
+    "emoji": "🇩🇪",
+    "country": "Alemanha",
+    "product_id": "FRANQUIA20GB_DE",
+    "check": false
+  },
+  {
+    "alpha": "CO",
+    "emoji": "🇨🇴",
+    "country": "Colômbia",
+    "product_id": "FRANQUIA20GB_CO",
+    "check": false
+  },
+  {
+    "alpha": "DO",
+    "emoji": "🇩🇴",
+    "country": "República Dominicana",
+    "product_id": "FRANQUIA20GB_DO",
+    "check": false
+  },
+  {
+    "alpha": "EC",
+    "emoji": "🇪🇨",
+    "country": "Equador",
+    "product_id": "FRANQUIA20GB_EC",
+    "check": false
+  },
+  {
+    "alpha": "DK",
+    "emoji": "🇩🇰",
+    "country": "Dinamarca",
+    "product_id": "FRANQUIA20GB_DK",
+    "check": false
+  },
+  {
+    "alpha": "ES",
+    "emoji": "🇪🇸",
+    "country": "Espanha",
+    "product_id": "FRANQUIA20GB_ES",
+    "check": false
+  },
+  {
+    "alpha": "ET",
+    "emoji": "🇪🇹",
+    "country": "Etiópia",
+    "product_id": "FRANQUIA20GB_ET",
+    "check": false
+  },
+  {
+    "alpha": "FR",
+    "emoji": "🇫🇷",
+    "country": "França",
+    "product_id": "FRANQUIA20GB_FR",
+    "check": false
+  },
+  {
+    "alpha": "DZ",
+    "emoji": "🇩🇿",
+    "country": "Argélia",
+    "product_id": "FRANQUIA20GB_DZ",
+    "check": false
+  },
+  {
+    "alpha": "GA",
+    "emoji": "🇬🇦",
+    "country": "Gabão",
+    "product_id": "FRANQUIA20GB_GA",
+    "check": false
+  },
+  {
+    "alpha": "FJ",
+    "emoji": "🇫🇯",
+    "country": "Fiji",
+    "product_id": "FRANQUIA20GB_FJ",
+    "check": false
+  },
+  {
+    "alpha": "GE",
+    "emoji": "🇬🇪",
+    "country": "Geórgia",
+    "product_id": "FRANQUIA20GB_GE",
+    "check": false
+  },
+  {
+    "alpha": "FI",
+    "emoji": "🇫🇮",
+    "country": "Finlândia",
+    "product_id": "FRANQUIA20GB_FI",
+    "check": false
+  },
+  {
+    "alpha": "GF",
+    "emoji": "🇬🇫",
+    "country": "Guiana Francesa",
+    "product_id": "FRANQUIA20GB_GF",
+    "check": false
+  },
+  {
+    "alpha": "GP",
+    "emoji": "🇬🇵",
+    "country": "Guadalupe",
+    "product_id": "FRANQUIA20GB_GP",
+    "check": true
+  },
+  {
+    "alpha": "GH",
+    "emoji": "🇬🇭",
+    "country": "Gana",
+    "product_id": "FRANQUIA20GB_GH",
+    "check": true
+  },
+  {
+    "alpha": "GM",
+    "emoji": "🇬🇲",
+    "country": "Gâmbia",
+    "product_id": "FRANQUIA20GB_GM",
+    "check": false
+  },
+  {
+    "alpha": "GQ",
+    "emoji": "🇬🇶",
+    "country": "Guiné Equatorial",
+    "product_id": "FRANQUIA20GB_GQ",
+    "check": true
+  }
+]

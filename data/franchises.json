@@ -1,0 +1,26 @@
+[
+  {
+    "product_id": "FRANQUIA5GB",
+    "data": "5 GB",
+    "voice": "200min",
+    "sms": "ilimitado",
+    "duration": "30d",
+    "value": 35
+  },
+  {
+    "product_id": "FRANQUIA20GB",
+    "data": "20 GB",
+    "voice": "200min",
+    "sms": "ilimitado",
+    "duration": "30d",
+    "value": 100
+  },
+  {
+    "product_id": "FRANQUIA10GB",
+    "data": "10 GB",
+    "voice": "200min",
+    "sms": "ilimitado",
+    "duration": "30d",
+    "value": 60
+  }
+]

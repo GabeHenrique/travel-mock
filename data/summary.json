@@ -1,0 +1,66 @@
+{
+  "identifier": "+5515988204783",
+  "start_date": "2024-02-02T20:00:00Z",
+  "shopping_cart": {
+    "id": "3784374",
+    "entries": [
+      {
+        "product_id": "FRANQUIA5GB_AD",
+        "entry_number": 1,
+        "quantity": 2,
+        "process_type": "buy",
+        "total_amount": {
+          "value": 500,
+          "currency": "BRL"
+        },
+        "base_amount": {
+          "value": 450,
+          "currency": "BRL"
+        }
+      },
+      {
+        "product_id": "FRANQUIA5GB_FR",
+        "entry_number": 2,
+        "quantity": 1,
+        "process_type": "buy",
+        "total_amount": {
+          "value": 300,
+          "currency": "BRL"
+        },
+        "base_amount": {
+          "value": 250,
+          "currency": "BRL"
+        }
+      }
+    ],
+    "total_items": 2,
+    "base_amount": {
+      "value": 700,
+      "currency": "BRL"
+    },
+    "total_amount": {
+      "value": 875,
+      "currency": "BRL"
+    }
+  },
+  "countries": [
+    {
+      "alpha": "AD",
+      "emoji": "🇦🇩",
+      "country": "Andorra"
+    },
+    {
+      "alpha": "FR",
+      "emoji": "🇫🇷",
+      "country": "França"
+    }
+  ],
+  "franchise": {
+    "product_id": "FRANQUIA5GB",
+    "data": "5 GB",
+    "voice": "200min",
+    "sms": "ilimitado",
+    "duration": "30d",
+    "value": 29
+  }
+}
